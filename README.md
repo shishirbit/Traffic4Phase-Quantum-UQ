@@ -73,5 +73,4 @@ Reproducibility controls:
 Provide a `*.npz` file with array `speed` of shape `[T, N]` and optionally sensor coordinates.
 Update `configs/default.yaml` accordingly.
 
-## License
-MIT (suggested).
+
