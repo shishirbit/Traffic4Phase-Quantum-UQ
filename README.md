@@ -68,9 +68,6 @@ Reproducibility controls:
 - Fixed temporal split order (no leakage)
 - Saved configs and checkpoints under `runs/`
 
-## 5) Applying to new datasets
 
-Provide a `*.npz` file with array `speed` of shape `[T, N]` and optionally sensor coordinates.
-Update `configs/default.yaml` accordingly.
 
 
